@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/bin/Debug/net8.0/Commission Percentage
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/bin/Debug/net8.0/Commission Percentage.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/bin/Debug/net8.0/Commission Percentage.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/bin/Debug/net8.0/Commission Percentage.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/bin/Debug/net8.0/Commission Percentage.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/refint/Commission Percentage.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/Commission Percentage.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Commission Percentage/obj/Debug/net8.0/ref/Commission Percentage.dll

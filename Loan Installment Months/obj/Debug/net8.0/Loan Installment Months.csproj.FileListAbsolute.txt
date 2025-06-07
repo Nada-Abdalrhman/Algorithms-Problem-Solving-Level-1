@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/bin/Debug/net8.0/Loan Installment Months
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/bin/Debug/net8.0/Loan Installment Months.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/bin/Debug/net8.0/Loan Installment Months.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/bin/Debug/net8.0/Loan Installment Months.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/bin/Debug/net8.0/Loan Installment Months.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/refint/Loan Installment Months.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/Loan Installment Months.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Loan Installment Months/obj/Debug/net8.0/ref/Loan Installment Months.dll

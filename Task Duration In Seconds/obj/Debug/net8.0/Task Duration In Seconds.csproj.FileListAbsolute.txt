@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/bin/Debug/net8.0/Task Duration In Seconds
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/bin/Debug/net8.0/Task Duration In Seconds.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/bin/Debug/net8.0/Task Duration In Seconds.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/bin/Debug/net8.0/Task Duration In Seconds.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/bin/Debug/net8.0/Task Duration In Seconds.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/refint/Task Duration In Seconds.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/Task Duration In Seconds.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Task Duration In Seconds/obj/Debug/net8.0/ref/Task Duration In Seconds.dll

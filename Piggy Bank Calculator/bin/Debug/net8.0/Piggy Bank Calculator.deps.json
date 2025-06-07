@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Piggy Bank Calculator/1.0.0": {
+        "runtime": {
+          "Piggy Bank Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Piggy Bank Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

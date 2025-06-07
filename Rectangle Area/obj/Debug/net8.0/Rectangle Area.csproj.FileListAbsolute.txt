@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/bin/Debug/net8.0/Rectangle Area
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/bin/Debug/net8.0/Rectangle Area.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/bin/Debug/net8.0/Rectangle Area.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/bin/Debug/net8.0/Rectangle Area.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/bin/Debug/net8.0/Rectangle Area.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/refint/Rectangle Area.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/Rectangle Area.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Rectangle Area/obj/Debug/net8.0/ref/Rectangle Area.dll

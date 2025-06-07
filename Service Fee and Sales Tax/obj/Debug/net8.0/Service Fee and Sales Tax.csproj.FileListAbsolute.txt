@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/bin/Debug/net8.0/Service Fee and Sales Tax
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/bin/Debug/net8.0/Service Fee and Sales Tax.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/bin/Debug/net8.0/Service Fee and Sales Tax.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/bin/Debug/net8.0/Service Fee and Sales Tax.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/bin/Debug/net8.0/Service Fee and Sales Tax.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/refint/Service Fee and Sales Tax.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/Service Fee and Sales Tax.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Service Fee and Sales Tax/obj/Debug/net8.0/ref/Service Fee and Sales Tax.dll

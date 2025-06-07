@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/bin/Debug/net8.0/Read Name and Print It
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/bin/Debug/net8.0/Read Name and Print It.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/bin/Debug/net8.0/Read Name and Print It.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/bin/Debug/net8.0/Read Name and Print It.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/bin/Debug/net8.0/Read Name and Print It.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/refint/Read Name and Print It.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/Read Name and Print It.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Name and Print It/obj/Debug/net8.0/ref/Read Name and Print It.dll

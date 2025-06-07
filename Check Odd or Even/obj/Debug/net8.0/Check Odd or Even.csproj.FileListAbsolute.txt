@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/bin/Debug/net8.0/Check Odd or Even
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/bin/Debug/net8.0/Check Odd or Even.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/bin/Debug/net8.0/Check Odd or Even.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/bin/Debug/net8.0/Check Odd or Even.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/bin/Debug/net8.0/Check Odd or Even.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/refint/Check Odd or Even.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/Check Odd or Even.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Check Odd or Even/obj/Debug/net8.0/ref/Check Odd or Even.dll

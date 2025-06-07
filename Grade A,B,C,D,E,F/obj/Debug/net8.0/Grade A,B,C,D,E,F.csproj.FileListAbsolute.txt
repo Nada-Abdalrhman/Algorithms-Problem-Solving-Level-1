@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/bin/Debug/net8.0/Grade A,B,C,D,E,F
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/bin/Debug/net8.0/Grade A,B,C,D,E,F.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/bin/Debug/net8.0/Grade A,B,C,D,E,F.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/bin/Debug/net8.0/Grade A,B,C,D,E,F.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/bin/Debug/net8.0/Grade A,B,C,D,E,F.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/refint/Grade A,B,C,D,E,F.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/Grade A,B,C,D,E,F.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Grade A,B,C,D,E,F/obj/Debug/net8.0/ref/Grade A,B,C,D,E,F.dll

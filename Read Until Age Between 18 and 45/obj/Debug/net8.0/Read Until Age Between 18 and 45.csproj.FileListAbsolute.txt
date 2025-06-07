@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/bin/Debug/net8.0/Read Until Age Between 18 and 45
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/bin/Debug/net8.0/Read Until Age Between 18 and 45.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/bin/Debug/net8.0/Read Until Age Between 18 and 45.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/bin/Debug/net8.0/Read Until Age Between 18 and 45.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/bin/Debug/net8.0/Read Until Age Between 18 and 45.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/refint/Read Until Age Between 18 and 45.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/Read Until Age Between 18 and 45.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Read Until Age Between 18 and 45/obj/Debug/net8.0/ref/Read Until Age Between 18 and 45.dll

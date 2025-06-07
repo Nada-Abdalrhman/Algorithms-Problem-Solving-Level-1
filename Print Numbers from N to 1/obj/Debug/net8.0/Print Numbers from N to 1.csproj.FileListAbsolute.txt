@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/bin/Debug/net8.0/Print Numbers from N to 1
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/bin/Debug/net8.0/Print Numbers from N to 1.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/bin/Debug/net8.0/Print Numbers from N to 1.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/bin/Debug/net8.0/Print Numbers from N to 1.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/bin/Debug/net8.0/Print Numbers from N to 1.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/refint/Print Numbers from N to 1.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/Print Numbers from N to 1.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Print Numbers from N to 1/obj/Debug/net8.0/ref/Print Numbers from N to 1.dll

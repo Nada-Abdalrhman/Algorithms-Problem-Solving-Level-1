@@ -1,0 +1,14 @@
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/bin/Debug/net8.0/Piggy Bank Calculator
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/bin/Debug/net8.0/Piggy Bank Calculator.deps.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/bin/Debug/net8.0/Piggy Bank Calculator.runtimeconfig.json
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/bin/Debug/net8.0/Piggy Bank Calculator.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/bin/Debug/net8.0/Piggy Bank Calculator.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.AssemblyInfoInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.AssemblyInfo.cs
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.csproj.CoreCompileInputs.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/refint/Piggy Bank Calculator.dll
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.pdb
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/Piggy Bank Calculator.genruntimeconfig.cache
+/Users/nadaabdalrhman/Documents/Algorithms and problem sloving level one/Algorithms & Problem-Solving Level 1/Piggy Bank Calculator/obj/Debug/net8.0/ref/Piggy Bank Calculator.dll
